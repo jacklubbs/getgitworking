@@ -14,6 +14,7 @@
 		B4EB26992BCDD3CC0036C25A /* getgitworkingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4EB26982BCDD3CC0036C25A /* getgitworkingTests.swift */; };
 		B4EB26A32BCDD3CC0036C25A /* getgitworkingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4EB26A22BCDD3CC0036C25A /* getgitworkingUITests.swift */; };
 		B4EB26A52BCDD3CC0036C25A /* getgitworkingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4EB26A42BCDD3CC0036C25A /* getgitworkingUITestsLaunchTests.swift */; };
+		B4EB26B32BCE5EBC0036C25A /* getgitworkingUITests2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4EB26B12BCE5EB80036C25A /* getgitworkingUITests2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B4EB269E2BCDD3CC0036C25A /* getgitworkingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = getgitworkingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4EB26A22BCDD3CC0036C25A /* getgitworkingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getgitworkingUITests.swift; sourceTree = "<group>"; };
 		B4EB26A42BCDD3CC0036C25A /* getgitworkingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getgitworkingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B4EB26B12BCE5EB80036C25A /* getgitworkingUITests2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getgitworkingUITests2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 			isa = PBXGroup;
 			children = (
 				B4EB26A22BCDD3CC0036C25A /* getgitworkingUITests.swift */,
+				B4EB26B12BCE5EB80036C25A /* getgitworkingUITests2.swift */,
 				B4EB26A42BCDD3CC0036C25A /* getgitworkingUITestsLaunchTests.swift */,
 			);
 			path = getgitworkingUITests;
@@ -275,6 +278,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B4EB26A52BCDD3CC0036C25A /* getgitworkingUITestsLaunchTests.swift in Sources */,
+				B4EB26B32BCE5EBC0036C25A /* getgitworkingUITests2.swift in Sources */,
 				B4EB26A32BCDD3CC0036C25A /* getgitworkingUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
