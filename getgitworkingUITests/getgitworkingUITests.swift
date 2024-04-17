@@ -6,7 +6,6 @@
 //
 
 import XCTest
-@testable import getgitworking
 
 final class getgitworkingUITests: XCTestCase {
 
