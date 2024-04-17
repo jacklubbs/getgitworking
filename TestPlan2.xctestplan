@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "D7628885-9EA5-4AFC-A12C-C0B7719BE684",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "getgitworkingUITests",
+        "getgitworkingUITestsLaunchTests"
+      ],
+      "target" : {
+        "containerPath" : "container:getgitworking.xcodeproj",
+        "identifier" : "B4EB269D2BCDD3CC0036C25A",
+        "name" : "getgitworkingUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
